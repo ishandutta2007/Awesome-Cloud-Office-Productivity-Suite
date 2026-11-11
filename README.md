@@ -60,7 +60,7 @@ Below is a comparison of major commercial cloud office suites, sorted in descend
 
 Curated list of notable open-source office suites, collaborative document servers, and self-hosted workspaces. Ranked in descending order by GitHub stargazer count.
 
-| Project | ⭐ Stars | 📝 Description | 💻 Stack / License |
+| Project | ⭐ GitHub_Stars | 📝 Description | 💻 Stack / License |
 |---|:---:|---|---|
 | **[AppFlowy](https://github.com/appflowy-io/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/appflowy-io/AppFlowy?style=social&color=white)](https://github.com/appflowy-io/AppFlowy/stargazers) | Open-source Notion alternative built for data security and offline-first workflows. Supports rich text, kanban, tables, calendar views, and native desktop/mobile apps. | Flutter, Rust<br>`AGPL-3.0` |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | Next-generation all-in-one workspace uniting multimodal docs, infinite canvas whiteboards, and structured databases into a single collaborative surface. | TypeScript, Rust<br>`MIT` |
@@ -115,7 +115,7 @@ We welcome community contributions, corrections, and new project submissions:
 2. Create a new branch: `git checkout -b feature/add-new-suite`.
 3. Add your entry to either the **SaaS / Hosted Platforms** or **Open-Source GitHub Projects** table following existing conventions:
    - For SaaS: Product name, company valuation/scale, concise description, specific starting price, and exact free tier/trial limits.
-   - For Open-Source: Repository link, social star badge linking to `/stargazers`, concise description, and tech stack/license. Ensure the table maintains descending star order.
+   - For Open-Source: Repository link, social Stars_Badge linking to `/stargazers`, concise description, and tech stack/license. Ensure the table maintains descending star order.
 4. Open a **Pull Request** detailing the proposed addition.
 
 ---
