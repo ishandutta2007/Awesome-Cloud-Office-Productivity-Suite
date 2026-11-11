@@ -1,26 +1,36 @@
 # Awesome-Cloud-Office-Productivity-Suite
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Repos](https://img.shields.io/badge/Open--Source%20Repos-12-blue.svg)](#open-source-github-projects)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cloud Office Productivity Suite Banner" width="100%" />
+</p>
 
-> A curated list of top SaaS cloud office productivity suites and open-source, self-hosted office collaboration platforms. Real-time document editing, spreadsheets, presentations, and team workspaces compared.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="#open-source-github-projects"><img src="https://img.shields.io/badge/Open--Source%20Repos-12-blue.svg" alt="Tracked Repos" /></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This directory tracks top **SaaS platforms** and **open-source GitHub projects** for **Cloud Office Productivity Suites**. These solutions bundle word processing, spreadsheets, presentations, cloud storage, and team communication into unified cloud ecosystems—enabling distributed teams to collaborate seamlessly with or without reliance on proprietary public clouds.
+> ⚡ **A curated list of top SaaS cloud office productivity suites and open-source, self-hosted office collaboration platforms.** Real-time document editing, spreadsheets, presentations, and team workspaces compared.
 
----
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Architecture & Self-Hosting Frameworks](#architecture--self-hosting-frameworks)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+This directory tracks top **SaaS platforms** ☁️ and **open-source GitHub projects** 🔓 for **Cloud Office Productivity Suites**. These solutions bundle word processing, spreadsheets, presentations, cloud storage, and team communication into unified cloud ecosystems—enabling distributed teams to collaborate seamlessly with or without reliance on proprietary public clouds.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architecture & Self-Hosting Frameworks](#️-architecture--self-hosting-frameworks)
+- [🌟 Star History](#-star-history)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
 
 The global cloud office productivity software market is valued at approximately **$98B to $110B**, driven by widespread adoption of hybrid work infrastructure and enterprise-wide AI copilot integrations (growing at a ~8%–12% CAGR).
 
@@ -28,11 +38,11 @@ The sector operates as a **heavily concentrated duopoly** where **Microsoft 365*
 
 ---
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 Below is a comparison of major commercial cloud office suites, sorted in descending order by parent company scale (market capitalization or private valuation).
 
-| Product | Company Scale (Valuation / Revenue) | Description | Starting Tier Pricing | Free Tier / Trial Limits |
+| Product | 🏢 Company Scale (Valuation / Revenue) | 📝 Description | 💳 Starting Tier Pricing | 🎁 Free Tier / Trial Limits |
 |---|---|---|---|---|
 | **[Apple iWork for iCloud](https://www.apple.com/iwork/)** | ~$3.6T Market Cap (Apple Inc.) / ~$391B Annual Revenue | Web-based versions of Pages, Numbers, and Keynote accessible via browser with real-time collaboration and cross-device sync. | **Free** ($0 / permanently free with Apple ID) | **Free forever**: Full access to Pages, Numbers, and Keynote via iCloud.com with 5 GB free iCloud storage per Apple ID. |
 | **[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/)** | ~$3.1T Market Cap (Microsoft Corp.) / ~$245B Annual Revenue | Industry-standard suite with Word, Excel, PowerPoint, Outlook, Teams, OneDrive, and Copilot AI assistance. | **$6.00/user/month** (Business Basic, annual commitment; rising to $7.00/user/month) | **1-month free trial** (30 days) for Business Basic & Business Standard (up to 25 user seats with full features); no permanent free business tier. |
@@ -46,28 +56,28 @@ Below is a comparison of major commercial cloud office suites, sorted in descend
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 Curated list of notable open-source office suites, collaborative document servers, and self-hosted workspaces. Ranked in descending order by GitHub stargazer count.
 
-| Project | Stars | Description | Stack / License |
+| Project | ⭐ Stars | 📝 Description | 💻 Stack / License |
 |---|:---:|---|---|
-| **[AppFlowy](https://github.com/appflowy-io/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/appflowy-io/AppFlowy?style=social&color=white)](https://github.com/appflowy-io/AppFlowy/stargazers) | Open-source Notion alternative built for data security and offline-first workflows. Supports rich text, kanban, tables, calendar views, and native desktop/mobile apps. | Flutter, Rust<br>AGPL-3.0 |
-| **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | Next-generation all-in-one workspace uniting multimodal docs, infinite canvas whiteboards, and structured databases into a single collaborative surface. | TypeScript, Rust<br>MIT |
-| **[Outline](https://github.com/outline/outline)** | [![Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | Fast, modern, collaborative team knowledge base and document editor. Features Markdown support, slash commands, real-time sync, and comprehensive access permissions. | TypeScript, Node.js<br>BSL-1.1 |
-| **[Nextcloud Server](https://github.com/nextcloud/server)** | [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Flagship open-source self-hosted content collaboration hub. Delivers file sync & share, groupware, calendar, webmail, chat, video calling, and full office suite integration. | PHP, JavaScript<br>AGPL-3.0 |
-| **[Univer](https://github.com/dream-num/univer)** | [![Stars](https://img.shields.io/github/stars/dream-num/univer?style=social&color=white)](https://github.com/dream-num/univer/stargazers) | Enterprise-grade full-stack canvas office architecture implementing collaborative spreadsheets, documents, and slides with high performance rendering and formula engines. | TypeScript, Canvas<br>Apache-2.0 |
-| **[Etherpad](https://github.com/ether/etherpad-lite)** | [![Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers) | Highly customizable open-source real-time collaborative text editor with version history, chat, plugin ecosystem, and operational transformation (OT) synchronization. | JavaScript, Node.js<br>Apache-2.0 |
-| **[CryptPad](https://github.com/cryptpad/cryptpad)** | [![Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers) | End-to-end encrypted, zero-knowledge collaborative office suite. Provides rich text, spreadsheets, presentations, code pads, whiteboards, and forms without exposing plaintext to servers. | JavaScript<br>AGPL-3.0 |
-| **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** | [![Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers) | Self-hosted online office suite engine offering Docs, Sheets, and Slides with maximum OOXML (.docx, .xlsx, .pptx) format fidelity and multi-user co-authoring. | C++, JavaScript<br>AGPL-3.0 |
-| **[LibreOffice Core](https://github.com/LibreOffice/core)** | [![Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers) | Canonical core engine of the world's most popular open-source desktop office productivity suite, powering Writer, Calc, Impress, Draw, and Base under The Document Foundation. | C++, Java<br>MPL-2.0 |
-| **[FortuneSheet](https://github.com/ruilisi/fortune-sheet)** | [![Stars](https://img.shields.io/github/stars/ruilisi/fortune-sheet?style=social&color=white)](https://github.com/ruilisi/fortune-sheet/stargazers) | Drop-in online collaborative spreadsheet React/Vue component supporting rich cell formatting, formulas, conditional rules, and multi-user real-time collaboration. | TypeScript, React<br>MIT |
-| **[Collabora Online](https://github.com/CollaboraOnline/online)** | [![Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers) | Collaborative online office suite engine built on LibreOffice technology. Provides server-rendered, browser-based document, spreadsheet, and presentation co-editing with WOPI support. | C++, JavaScript<br>MPL-2.0 |
-| **[Nextcloud Office (richdocuments)](https://github.com/nextcloud/richdocuments)** | [![Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers) | Official Nextcloud integration application connecting Collabora Online or ONLYOFFICE directly into Nextcloud Files for seamless browser-based document editing. | PHP, JavaScript<br>AGPL-3.0 |
+| **[AppFlowy](https://github.com/appflowy-io/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/appflowy-io/AppFlowy?style=social&color=white)](https://github.com/appflowy-io/AppFlowy/stargazers) | Open-source Notion alternative built for data security and offline-first workflows. Supports rich text, kanban, tables, calendar views, and native desktop/mobile apps. | Flutter, Rust<br>`AGPL-3.0` |
+| **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | Next-generation all-in-one workspace uniting multimodal docs, infinite canvas whiteboards, and structured databases into a single collaborative surface. | TypeScript, Rust<br>`MIT` |
+| **[Outline](https://github.com/outline/outline)** | [![Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) | Fast, modern, collaborative team knowledge base and document editor. Features Markdown support, slash commands, real-time sync, and comprehensive access permissions. | TypeScript, Node.js<br>`BSL-1.1` |
+| **[Nextcloud Server](https://github.com/nextcloud/server)** | [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Flagship open-source self-hosted content collaboration hub. Delivers file sync & share, groupware, calendar, webmail, chat, video calling, and full office suite integration. | PHP, JavaScript<br>`AGPL-3.0` |
+| **[Univer](https://github.com/dream-num/univer)** | [![Stars](https://img.shields.io/github/stars/dream-num/univer?style=social&color=white)](https://github.com/dream-num/univer/stargazers) | Enterprise-grade full-stack canvas office architecture implementing collaborative spreadsheets, documents, and slides with high performance rendering and formula engines. | TypeScript, Canvas<br>`Apache-2.0` |
+| **[Etherpad](https://github.com/ether/etherpad-lite)** | [![Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers) | Highly customizable open-source real-time collaborative text editor with version history, chat, plugin ecosystem, and operational transformation (OT) synchronization. | JavaScript, Node.js<br>`Apache-2.0` |
+| **[CryptPad](https://github.com/cryptpad/cryptpad)** | [![Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers) | End-to-end encrypted, zero-knowledge collaborative office suite. Provides rich text, spreadsheets, presentations, code pads, whiteboards, and forms without exposing plaintext to servers. | JavaScript<br>`AGPL-3.0` |
+| **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** | [![Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers) | Self-hosted online office suite engine offering Docs, Sheets, and Slides with maximum OOXML (.docx, .xlsx, .pptx) format fidelity and multi-user co-authoring. | C++, JavaScript<br>`AGPL-3.0` |
+| **[LibreOffice Core](https://github.com/LibreOffice/core)** | [![Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers) | Canonical core engine of the world's most popular open-source desktop office productivity suite, powering Writer, Calc, Impress, Draw, and Base under The Document Foundation. | C++, Java<br>`MPL-2.0` |
+| **[FortuneSheet](https://github.com/ruilisi/fortune-sheet)** | [![Stars](https://img.shields.io/github/stars/ruilisi/fortune-sheet?style=social&color=white)](https://github.com/ruilisi/fortune-sheet/stargazers) | Drop-in online collaborative spreadsheet React/Vue component supporting rich cell formatting, formulas, conditional rules, and multi-user real-time collaboration. | TypeScript, React<br>`MIT` |
+| **[Collabora Online](https://github.com/CollaboraOnline/online)** | [![Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers) | Collaborative online office suite engine built on LibreOffice technology. Provides server-rendered, browser-based document, spreadsheet, and presentation co-editing with WOPI support. | C++, JavaScript<br>`MPL-2.0` |
+| **[Nextcloud Office (richdocuments)](https://github.com/nextcloud/richdocuments)** | [![Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers) | Official Nextcloud integration application connecting Collabora Online or ONLYOFFICE directly into Nextcloud Files for seamless browser-based document editing. | PHP, JavaScript<br>`AGPL-3.0` |
 
 ---
 
-## Architecture & Self-Hosting Frameworks
+## 🏗️ Architecture & Self-Hosting Frameworks
 
 To deploy a self-hosted, sovereign cloud office productivity stack without vendor lock-in, organizations commonly compose these layers:
 
@@ -80,7 +90,24 @@ To deploy a self-hosted, sovereign cloud office productivity stack without vendo
 
 ---
 
-## How to Contribute
+## 🌟 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Cloud-Office-Productivity-Suite&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Cloud-Office-Productivity-Suite&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for exploring this curated repository! If you find this directory valuable for your research, team evaluation, or infrastructure planning, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute additions, corrections, or tools.
+- 📢 **Share** this list with colleagues, IT administrators, and developer communities.
+- ☕ **Buy me a coffee**: Support ongoing curation and open-source maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
 
 We welcome community contributions, corrections, and new project submissions:
 
@@ -93,7 +120,7 @@ We welcome community contributions, corrections, and new project submissions:
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This repository is a community-maintained resource for educational, architectural, and evaluation purposes; it does not constitute an endorsement.
 - All brand names, logos, trademarks, and registered trademarks are properties of their respective owners.
@@ -101,4 +128,6 @@ We welcome community contributions, corrections, and new project submissions:
 
 ---
 
-<sub>Maintained by [Ishan Dutta](https://github.com/ishandutta2007) and contributors. Star this repository if it helps your workspace planning!</sub>
+<p align="center">
+  <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and contributors. Star this repository if it helps your workspace planning!</sub>
+</p>
